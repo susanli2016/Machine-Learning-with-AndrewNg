@@ -1,2 +1,2 @@
 # Machine-Learning-with-AndrewNg
-This repo contains for all the programming exercises done by me as a part of Coursera's Machine Learning Course.
+This repo contains all the programming assignments done by me as part of the Coursera's Machine Learning Course.
